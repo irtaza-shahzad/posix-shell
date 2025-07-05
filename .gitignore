@@ -1,0 +1,11 @@
+# Ignore compiled executable
+my_shell
+
+# Ignore object files
+*.o
+
+# Editor backup files
+*.swp
+
+# macOS-specific hidden files
+.DS_Store
